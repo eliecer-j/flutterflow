@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>231140727482-89bgqhb3mb64ei4ic20gtg8rtco6mq15.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.231140727482-89bgqhb3mb64ei4ic20gtg8rtco6mq15</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>231140727482-se3d50gis67g5s5a3qannrq25btas4hv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxLQPvLiXDoViiz_AJLnbfmPr0ig2SHCQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>231140727482</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.proyectanimegirl</string>
+	<key>PROJECT_ID</key>
+	<string>animegirl</string>
+	<key>STORAGE_BUCKET</key>
+	<string>animegirl.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:231140727482:ios:6d6e24520c29d91c100083</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "231140727482",
+    "project_id": "animegirl",
+    "storage_bucket": "animegirl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231140727482:android:58bc4d43d24a149c100083",
+        "android_client_info": {
+          "package_name": "com.mycompany.proyectanimegirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231140727482-se3d50gis67g5s5a3qannrq25btas4hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.proyectanimegirl",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "231140727482-e6cnhv8h6so2p2h4impcgpt9s3b7ff8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJDNJXznGeUFHX-odp2CyPtZFuTO1IVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231140727482-e6cnhv8h6so2p2h4impcgpt9s3b7ff8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231140727482-89bgqhb3mb64ei4ic20gtg8rtco6mq15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proyectanimegirl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
